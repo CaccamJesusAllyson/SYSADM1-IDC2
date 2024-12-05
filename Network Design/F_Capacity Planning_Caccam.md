@@ -13,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_1f4e6d9df7d14c93bf8a610b3e8a40c4/media/image2.bin){width="5.049483814523184in"
-height="3.8229166666666665in"}
+![image](https://github.com/user-attachments/assets/62494aee-b50b-47d2-92c9-137757c680f8)
+
 
 **Bottlenecks:**
 
@@ -128,8 +128,7 @@ performance and quickly identify issues.
 
 **Proposed Network Design**
 
-![](vertopal_1f4e6d9df7d14c93bf8a610b3e8a40c4/media/image3.png){width="7.027083333333334in"
-height="5.590277777777778in"}
+![image](https://github.com/user-attachments/assets/b983cd09-e9ee-4a9c-92c8-4c76577ea3de)
 
 **Evaluating the Plan:**
 
