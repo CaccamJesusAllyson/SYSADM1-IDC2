@@ -1,19 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 1f4e6d9df7d14c93bf8a610b3e8a40c4 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Bartolome, Brylle          | DATE PERFORMED: Nov    | /50      |
-|                                  | 28, 2024               |          |
-| Caccam, Jesus Allyson            |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED: Dec 3, |          |
-|                                  | 2024                   |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/a3ec0a72-84a1-4e48-a733-d5d092fa9121)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
