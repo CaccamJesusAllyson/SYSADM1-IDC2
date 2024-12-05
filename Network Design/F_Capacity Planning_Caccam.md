@@ -128,7 +128,7 @@ performance and quickly identify issues.
 
 **Proposed Network Design**
 
-![image](https://github.com/user-attachments/assets/b983cd09-e9ee-4a9c-92c8-4c76577ea3de)
+![Network Design V2](https://github.com/user-attachments/assets/1a7e4c93-8a1a-40c6-b663-8aa7d47652ee)
 
 **Evaluating the Plan:**
 
