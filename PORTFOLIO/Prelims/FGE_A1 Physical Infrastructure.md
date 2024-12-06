@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 5f98095b5cbe4dbea2e0aace4c67e116 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Caccam, Jesus Allyson O.   | DATE PERFORMED: August |          |
-|                                  | 29, 2024               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED: August |          |
-|                                  | 29, 2024               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/90d43da6-3d71-4536-b610-7f24adf18b0b)
+
 
 # SYSADM1 -- Physical Infrastructure
 
