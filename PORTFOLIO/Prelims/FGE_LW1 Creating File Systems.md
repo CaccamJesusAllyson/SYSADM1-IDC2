@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 543a928314ce4d90bf266ee9122f65f0 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Caccam, Jesus Allyson O    | DATE PERFORMED: Aug.   | 50/50    |
-|                                  | 22, 2024               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/9b59f1b3-f3fa-4cf2-ac7a-c796cd0b7c4f)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
@@ -54,8 +42,7 @@
 11. Create a folder named \"LabFiles\" with subfolders for each file
     type. Use the internet for the resources of the files listed below.\
     \
-    ![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image2.png){width="6.157109580052493in"
-    height="1.8752613735783028in"}
+   ![image](https://github.com/user-attachments/assets/0dacf294-6cf6-48f0-87d4-06a9cabc7443)
 
 > **LabFiles**
 
@@ -67,8 +54,7 @@
 
     3.  code.cpp
 
-![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image3.png){width="5.951095800524935in"
-height="1.3400524934383202in"}
+![image](https://github.com/user-attachments/assets/fe3d21d5-b690-4aca-aba9-7f766397185c)
 
 2.  **Images**
 
@@ -78,8 +64,7 @@ height="1.3400524934383202in"}
 
     3.  image3.bmp
 
-![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image4.png){width="7.027083333333334in"
-height="1.3284722222222223in"}
+![image](https://github.com/user-attachments/assets/b6f1c32c-3c8e-4fff-85a4-2ac7d447b971)
 
 3.  **Audio**
 
@@ -87,32 +72,29 @@ height="1.3284722222222223in"}
 
     2.  speech.wav
 
-![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image5.png){width="6.532162073490814in"
-height="1.0418121172353456in"}
+![image](https://github.com/user-attachments/assets/601c6ad0-58ca-44dd-a57b-3a2cfe1dfe64)
+
 
 4.  **Video**
 
     1.  clip.mp4
 
-![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image6.png){width="7.027083333333334in"
-height="0.7715277777777778in"}
+![image](https://github.com/user-attachments/assets/da346c60-bfc3-4c88-9603-ee262a2d3763)
+
 
 12. **Check file properties:** Right-click on the \"info.txt\" file and
     select \"Properties.\" Explore the General, Details, and Security
     tabs to understand file attributes like creation date, size, and
     read-only status.
 
-> ![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image7.png){width="3.0in"
-> height="4.142259405074365in"}![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image8.png){width="2.8333333333333335in"
-> height="4.041666666666667in"}
+![image](https://github.com/user-attachments/assets/022c6abf-9814-4600-9865-33eeb15b0543)
 
 13. **Change file attributes:** Try changing the file attributes (e.g.,
     read-only, hidden) using the Properties dialog. Observe the changes
     in File Explorer.
 
-> ![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image9.png){width="3.0104166666666665in"
-> height="4.189495844269467in"}![](vertopal_543a928314ce4d90bf266ee9122f65f0/media/image10.png){width="2.9949562554680664in"
-> height="4.197916666666667in"}
+![image](https://github.com/user-attachments/assets/d4988fc6-a10b-418c-b3ea-0d74ec8c2ab8)
+
 
 14. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
     select \"Properties,\" and then the \"Sharing\" tab. Share the
