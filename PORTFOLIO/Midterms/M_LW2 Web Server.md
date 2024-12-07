@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 6e12510bc1ec409e8e25aada24cd1e94 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Caccam, Jesus Allyson O.   | DATE PERFORMED:        | /50      |
-|                                  | October 10, 2024       |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | October 10, 2024       |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/ca0d382b-804e-4ecd-854a-b8ec3e6c5089)
+
 
 # SYSADM1 -- Setting Up Webserver
 
@@ -25,8 +12,7 @@
 1.  Install IIS by adding it as a role, select necessary features,
     include monitoring tools
 
-    ![](vertopal_6e12510bc1ec409e8e25aada24cd1e94/media/image2.png){width="6.753314741907261in"
-    height="4.739133858267716in"}
+    ![image](https://github.com/user-attachments/assets/7b18a121-0504-4a85-9a3a-c195fefe2743)
 
 2.  Create a website by opening IIS Manager
 
@@ -38,8 +24,8 @@
     -   Enter a name, description, physical path (where your website
         files will reside), IP address, port, and host name.
 
-        ![](vertopal_6e12510bc1ec409e8e25aada24cd1e94/media/image3.png){width="6.24045384951881in"
-        height="6.011255468066492in"}
+        ![image](https://github.com/user-attachments/assets/0afc44d0-7159-4d90-a29d-36d05e5c4369)
+
 
 3.  Configure the Website:
 
@@ -55,13 +41,13 @@
 
     -   Create an HTML file in the physical path you specified.
 
-        ![](vertopal_6e12510bc1ec409e8e25aada24cd1e94/media/image4.png){width="3.652083333333333in"
-        height="1.52377624671916in"}
+       ![image](https://github.com/user-attachments/assets/a5a57876-a27a-4bc2-aa74-da739bd21619)
+
 
     -   Save it as default.html or your preferred name.
 
-        ![](vertopal_6e12510bc1ec409e8e25aada24cd1e94/media/image5.png){width="6.250872703412074in"
-        height="1.2085017497812773in"}
+       ![image](https://github.com/user-attachments/assets/282e39d4-c9fd-4e1a-a34c-08f16dfc077c)
+
 
 5.  Test the Web Server:
 
@@ -76,26 +62,5 @@ height="2.5107666229221346in"}
 
 Grading Rubric
 
-  ------------------------------------------------------------------------------
-  **Criteria**      **Points**   **Description**
-  ----------------- ------------ -----------------------------------------------
-  Web Server        15           Correctly installs IIS or another web server on
-  Installation                   the virtual machine.
+  ![image](https://github.com/user-attachments/assets/9d736753-2cc9-4b60-8bd6-045d93246847)
 
-  Website           15           Successfully configures the website with the
-  Configuration                  correct physical path, IP address, port, and
-                                 default document.
-
-  Successful Access 15           Successfully accesses the web page from the
-                                 client computer using the correct URL.
-
-  Troubleshooting   15           Demonstrates ability to troubleshoot common
-                                 issues, such as network connectivity problems
-                                 or configuration errors.
-
-  Documentation     10           Provides clear and concise documentation of the
-                                 installation, configuration, and testing
-                                 process.
-
-  Total             /70          
-  ------------------------------------------------------------------------------
