@@ -15,48 +15,45 @@
 
 **Activity 1:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image2.jpg){width="3.978320209973753in"
-height="4.695106080489939in"}
+![image](https://github.com/user-attachments/assets/87374a7e-b503-4715-832a-a5046d099fff)
+
 
 **Quiz 1:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image3.jpeg){width="3.0829527559055117in"
-height="3.8665365266841647in"}
+![image](https://github.com/user-attachments/assets/3d8abb1e-729f-40b7-a11d-29379b55c7b1)
 
 **FG_A1 (Physical Infrastructure):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image4.png){width="4.206189851268592in"
-height="4.223298337707787in"}
+![image](https://github.com/user-attachments/assets/bca4c468-bd0f-4550-a9d2-c652e86a1dbc)
+
 
 **Quiz 2:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image5.jpg){width="3.728734689413823in"
-height="4.705307305336833in"}
+![image](https://github.com/user-attachments/assets/df65296f-5e7f-482b-bd91-f402b51b830d)
+
 
 **LABORATORY ACTIVITIES**
 
 **FGE_LW1(Creating File Systems):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image6.png){width="7.0in"
-height="4.345833333333333in"}
+![image](https://github.com/user-attachments/assets/5812339a-9ed0-429f-b3dc-fe8beb77ad2b)
+
 
 **FGE_LW3(Managing Services in Windows):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image7.png){width="7.0in"
-height="4.472916666666666in"}
+![image](https://github.com/user-attachments/assets/a96b57eb-6712-4293-ba06-21b5c2155a0e)
+
 
 **FGE_LW4(Managing Services in Linux):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image8.png){width="7.167655293088364in"
-height="3.575294181977253in"}
+![image](https://github.com/user-attachments/assets/37576d3b-29f9-46cd-9bd1-ee1834fc69d7)
 
 **LECTURE AND LABORATORY EXAM**
 
 **Laboratory Exam Lecture Exam:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image9.jpg){width="3.4583333333333335in"
-height="4.902777777777778in"}![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image10.jpg){width="3.176745406824147in"
-height="4.718055555555556in"}
+![image](https://github.com/user-attachments/assets/00bedb8a-e849-4583-a457-9181db5b5b1b)
+
 
 **MIDTERMS ACTIVITIES**
 
@@ -64,35 +61,32 @@ height="4.718055555555556in"}
 
 **Activity 1:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image11.jpg){width="5.777083333333334in"
-height="8.761501531058618in"}
+![image](https://github.com/user-attachments/assets/2377ffb1-612a-4169-aafb-661096b95670)
+
 
 **Activity 2:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image12.jpg){width="7.0in"
-height="9.143055555555556in"}
+![image](https://github.com/user-attachments/assets/b7ed344f-ab80-48ce-9cc6-c0bcb696cd66)
 
 **Activity 3 (GroupWork):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image13.png){width="5.916666666666667in"
-height="9.140787401574803in"}
+![image](https://github.com/user-attachments/assets/f5b4163c-908a-46f3-ae2f-d89450c8d86c)
 
 **LABORATORY ACTIVITIES**
 
 **M_LW1 (Printer Services):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image14.png){width="7.127057086614173in"
-height="4.557639982502187in"}
+![image](https://github.com/user-attachments/assets/913e474f-2719-40a5-b6c7-56c016102709)
 
 **M_LW2 (Web Services):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image15.png){width="7.090908792650919in"
-height="4.4104965004374455in"}
+![image](https://github.com/user-attachments/assets/8243a2a4-e8c4-4284-84cf-ebb445775935)
+
 
 **M_LW3 (Platform Services):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image16.png){width="6.548233814523185in"
-height="4.210228565179353in"}
+![image](https://github.com/user-attachments/assets/3dd04eaf-a758-4ba2-bc0b-564dbbdc005e)
+
 
 **MIDTERMS EXAM**
 
@@ -105,34 +99,30 @@ height="4.488194444444445in"}
 
 **FQuiz1_Recovery:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image18.png){width="7.0in"
-height="4.4875in"}**\
+![image](https://github.com/user-attachments/assets/80a90c03-3366-4658-9e5f-f2cd4fa2845b)
+
 Activity 1(Part 1):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image19.png){width="3.983225065616798in"
-height="4.53738188976378in"}
+![image](https://github.com/user-attachments/assets/7012e520-94ed-4243-bf43-c53ac1795b18)
 
 **Activity 1(Part 2):**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image20.png){width="7.0in"
-height="4.480555555555555in"}
+![image](https://github.com/user-attachments/assets/7e6fb124-f906-4ccf-a0bd-e4cb3ab72ff7)
 
 **LABORATORY ACTIVITIES**
 
 **FLW1_Kerberos:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image21.png){width="7.0in"
-height="4.496527777777778in"}
+![image](https://github.com/user-attachments/assets/c585b610-fa75-45b0-9564-8ae61c7657ac)
 
 **FLW2_GIT:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image22.png){width="7.0in"
-height="4.611805555555556in"}
+![image](https://github.com/user-attachments/assets/dcefca80-34fe-458e-a6fd-4871041d7534)
+
 
 **GITHUB Repository:**
 
-![](vertopal_3d54bc3d455f43fcaa2116b0c0004b21/media/image23.png){width="7.005270122484689in"
-height="3.773672353455818in"}
+![image](https://github.com/user-attachments/assets/f5a8fe0b-989a-4b84-86ae-fcacedebbb3b)
 
 **Course Reflection**
 
